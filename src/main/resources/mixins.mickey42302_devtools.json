@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "com.mickey42302.devtools.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BootstrapMixin",
+    "SharedConstantsMixin"
+  ],
+  "client": [
+    "MinecraftMixin"
+  ]
+}
